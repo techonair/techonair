@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/techonair1" target="blank"><img src="https://img.shields.io/twitter/follow/techonair1?logo=twitter&style=for-the-badge" alt="techonair1" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
--  **And I'm also practicing concepts of Data Science**
+-  And I'm also practicing concepts of **Data Science**
 
 - 💬 Ask me about **computer vision, machine learning, deep learning and astronomy**
 
