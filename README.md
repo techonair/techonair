@@ -6,10 +6,10 @@
 
 <p align="left"> <a href="https://twitter.com/techonair1" target="blank"><img src="https://img.shields.io/twitter/follow/techonair1?logo=twitter&style=for-the-badge" alt="techonair1" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
--  And I'm also practicing concepts of **Data Science**
+- 🌱 I’m currently learning **Django Framework**
+-  And I'm also practicing concepts of **Data Structures and Algorithms**
 
-- 💬 Ask me about **computer vision, machine learning, deep learning and astronomy**
+- 💬 Ask me about **python, django, machine-learning, algorithms and astronomy**
 
 - 📫 How to reach me **bpratap55j@gmail.com**
 
@@ -17,14 +17,13 @@
 <p align="left">
 <a href="https://twitter.com/techonair1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techonair1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bpratap55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bpratap55" height="30" width="40" /></a>
-<a href="https://kaggle.com/bpratap55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bpratap55" height="30" width="40" /></a>
 <a href="https://instagram.com/tech_on_air" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tech_on_air" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tech on air" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech on air" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/techonair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="techonair" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/reinkarnation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="techonair" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techonair&show_icons=true&locale=en&layout=compact" alt="techonair" /></p>
 
