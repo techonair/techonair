@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/techonair1" target="blank"><img src="https://img.shields.io/twitter/follow/techonair1?logo=twitter&style=for-the-badge" alt="techonair1" /></a> </p>
 
-- 🌱 I’m currently learning **Django Framework**
+- 🌱 I’m currently learning **NodeJS Framework**
 -  And I'm also practicing concepts of **Data Structures and Algorithms**
 
 - 💬 Ask me about **python, django, machine-learning, algorithms and astronomy**
