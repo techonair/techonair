@@ -1,48 +1,82 @@
-<h1 align="center">Hi 👋, I'm Bhanu Pratap</h1>
+<h1 align="center">Hey, I'm Bhanu 👋</h1>
+<h3 align="center">Building AI systems, backend infrastructure & agentic internet</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techonair&label=Profile%20views&color=0e75b6&style=flat" alt="techonair" /> </p>
+<p align="center">
+  <a href="https://reinkarnation.space">Portfolio</a> •
+  <a href="https://aipolitika.com">AIPolitika</a> •
+  <a href="https://github.com/techonair">GitHub</a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techonair" alt="techonair" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/techonair1" target="blank"><img src="https://img.shields.io/twitter/follow/techonair1?logo=twitter&style=for-the-badge" alt="techonair1" /></a> </p>
+### Currently exploring
+- AI agents that can take real-world actions  
+- RAG systems & retrieval infrastructure  
+- Distributed systems at scale  
+- Security tooling  
+- Open-source experimentation  
 
-# hey, i'm bhanu 👋
+---
 
-I build AI systems, backend infrastructure, and agentic internet.
+### Projects
+🚀 **AIPolitika** → Real-time political sentiment platform with AI analysis + live voting  
 
-currently exploring:
-- AI agents that can take real actions  
-- RAG systems & retrieval infra  
-- distributed systems  
-- security tooling  
-- open-source experimentation  
+🏠 **Home Assistant Voice Agent** → Natural language automation for smart homes  
 
-### projects
-→ **AIPolitika** — real-time political sentiment platform with AI analysis + live voting  
-→ **Home Assistant Voice Agent** — natural language control for smart homes  
-→ **Agent of Things Protocol** — open-source protocol layer for AI-native IoT devices   
+🌐 **Agent of Things Protocol** → Open-source communication layer for AI-native IoT devices  
 
-building in public → https://reinkarnation.space  
+🔬 Building in public → https://reinkarnation.space
 
-### stack
-python • go • typescript • postgres • redis • kafka • kubernetes • llms • vector dbs
+---
 
-<h3 align="left">Connect with me:</h3>
+### Tech Stack
+
 <p align="left">
-<a href="https://x.com/BPratap55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techonair1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bpratap55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bpratap55" height="30" width="40" /></a>
-<a href="https://instagram.com/tech_on_air" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tech_on_air" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tech on air" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech on air" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/reinkarnation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="techonair" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=python,go,typescript,javascript,react,nextjs,django,fastapi,nodejs,postgres,mongodb,redis,docker,kubernetes,aws,gcp,git,linux" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.org" target="_blank"> <img src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" alt="django" width="40" height="40"/> </a>
+#### AI / Infra
+`LangGraph` `RAG` `LLMs` `Kafka` `RabbitMQ` `Vector DBs` `Ollama` `Qwen` `Mistral` `Elasticsearch`
+
+---
+
+### Connect with me
+
+<p align="left">
+
+<a href="mailto:bpratap55j@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://linkedin.com/in/bpratap55">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://x.com/BPratap55">
+<img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x">
+</a>
+
+<a href="https://www.reddit.com/user/tech_on_air/">
+<img src="https://img.shields.io/badge/Reddit-Follow-orange?style=for-the-badge&logo=reddit">
+</a>
+
+<a href="https://leetcode.com/reinkarnation">
+<img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode">
+</a>
+
+<a href="https://discord.com/users/renikarnation">
+<img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techonair&show_icons=true&locale=en&layout=compact" alt="techonair" /></p>
+### Currently Building
+- AI agents for real-world automation  
+- Open-source infrastructure tools  
+- Security automation systems  
+- Experimental AI products
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techonair&show_icons=true&locale=en" alt="techonair" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techonair&" alt="techonair" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=techonair&theme=radical" height="170"/>
+</p>
