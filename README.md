@@ -6,16 +6,30 @@
 
 <p align="left"> <a href="https://twitter.com/techonair1" target="blank"><img src="https://img.shields.io/twitter/follow/techonair1?logo=twitter&style=for-the-badge" alt="techonair1" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS Framework**
--  And I'm also practicing concepts of **Data Structures and Algorithms**
+# hey, i'm bhanu 👋
 
-- 💬 Ask me about **python, django, machine-learning, algorithms and astronomy**
+i build AI systems, backend infrastructure, and weird things on the internet.
 
-- 📫 How to reach me **bpratap55j@gmail.com**
+currently exploring:
+- AI agents that can take real actions  
+- RAG systems & retrieval infra  
+- distributed systems  
+- security tooling  
+- open-source experimentation  
+
+### projects
+→ **AIPolitika** — real-time political sentiment platform with AI analysis + live voting  
+→ **Home Assistant Voice Agent** — natural language control for smart homes  
+→ **Agent of Things Protocol** — open-source protocol layer for AI-native IoT devices   
+
+building in public → https://reinkarnation.space  
+
+### stack
+python • go • typescript • postgres • redis • kafka • kubernetes • llms • vector dbs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/techonair1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techonair1" height="30" width="40" /></a>
+<a href="https://x.com/BPratap55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techonair1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bpratap55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bpratap55" height="30" width="40" /></a>
 <a href="https://instagram.com/tech_on_air" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tech_on_air" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tech on air" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech on air" height="30" width="40" /></a>
