@@ -8,7 +8,7 @@
 
 # hey, i'm bhanu 👋
 
-i build AI systems, backend infrastructure, and weird things on the internet.
+I build AI systems, backend infrastructure, and agentic internet.
 
 currently exploring:
 - AI agents that can take real actions  
