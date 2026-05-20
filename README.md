@@ -75,8 +75,3 @@
 - Open-source infrastructure tools  
 - Security automation systems  
 - Experimental AI products
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=techonair&theme=radical" height="170"/>
-</p>
